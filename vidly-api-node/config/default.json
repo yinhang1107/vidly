@@ -1,6 +1,0 @@
-{
-  "jwtPrivateKey": "unsecureKey",
-  "db": "mongodb+srv://yinhang1107:hang1107@cluster0.ocvj5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "port": "3900",
-  "requiresAuth": false
-}
